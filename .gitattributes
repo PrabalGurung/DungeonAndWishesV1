@@ -1,0 +1,15 @@
+DungeonAndWishes_Data/StreamingAssets/Background/cave.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Background/forest.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Background/volcano.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Inventory/ArmorInventory.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Inventory/MediumHealthPotion.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Inventory/SmallHealthPotion.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Inventory/SwordInventory.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Inventory/WaterCrystalInventory.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Monster/ChestMonster.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Monster/goblin.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Monster/greenSlime.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Monster/guardian.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Monster/hound.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Monster/sandGolem.png filter=lfs diff=lfs merge=lfs -text
+DungeonAndWishes_Data/StreamingAssets/Monster/golem.png filter=lfs diff=lfs merge=lfs -text
